@@ -1,0 +1,15 @@
+# Local model weights
+model_weights/
+
+# Local Python package metadata
+diffsynth.egg-info/
+
+# Local Gradio state
+.gradio/
+
+# Demo checkpoints
+demo/checkpoints/*.pt
+
+# Python cache files
+__pycache__/
+*.py[cod]

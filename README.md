@@ -3,6 +3,18 @@
 ## [Project Page](https://hjzheng.net/projects/AVI-Edit/) | [arXiv](https://arxiv.org/abs/2512.10571) | [Model](https://huggingface.co/suimu/AVI-Edit)
 
 This repository contains the official implementation of **AVI-Edit**, a framework for audio-sync video instance editing with granularity-aware mask refiner.
+<table align='center' border="0" style="width: 100%; text-align: center; margin-top: 80px;">
+  <tr>
+    <td>
+      <video align='center' src="https://github.com/user-attachments/assets/6f9e45fa-c9cb-4d1f-b801-4a6b121a37cf" autoplay loop></video>
+    </td>
+  </tr>
+    <tr align="center">
+    <td>
+      <em>For the best experience, please enable audio.</em>
+    </td>
+  </tr>
+</table>
 
 ## To Do List
 
